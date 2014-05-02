@@ -6,6 +6,7 @@
 		"@mrmrs <hi@mrmmrs.cc>"
 	],
 	"description": "Better colors for the web.",
+	"main": "sass/main.scss",
 	"keywords": [
 		"colors",
 		"web",
